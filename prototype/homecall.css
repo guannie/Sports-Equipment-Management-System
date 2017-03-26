@@ -1,0 +1,51 @@
+body{
+	background-image:url("img/greyy.png");
+	}
+	
+h1 {
+	font-size: 30px;
+	padding-top: 40px;
+	margin-left: 20px;
+	color: white;
+	}
+	
+.b1 {
+	margin: 0 auto;
+	border-radius: 30px;
+	width : 500;
+	height: 70;
+	border: 5px dashed white ;
+	background: rgba(46, 46, 46,.3);
+	}
+	
+.b2 {
+	padding: 40px;
+	margin: 70 auto;
+	border-radius: 60px;
+	width : 400;
+	height: 200;
+	border: 5px dashed red ;
+	background: rgba(46, 46, 46,.5);
+	}
+
+
+a {
+	color : white;
+	font-weight: bold;
+	text-decoration: none;
+	text-transform: uppercase;
+	
+	}
+	
+a:hover, a:active {
+    background-color: rgb(255, 115, 115);
+    color: black;
+}
+
+.footerr{
+		background: #191919;
+		width: 100%;
+		height: 100px;
+		bottom: 0;
+		}
+		
